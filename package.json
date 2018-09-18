@@ -9,7 +9,7 @@
         "cheerio": "^1.0.0-rc.2",
         "electron": "^2.0.9",
         "is-absolute-url": "^2.1.0",
-        "mongodb": "^3.1.4",
+        "mongodb": "^3.1.6",
         "nedb": "^1.8.0",
         "nodemon": "^1.18.4",
         "request": "^2.88.0",
